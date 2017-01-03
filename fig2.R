@@ -10,5 +10,7 @@ for(gene in genestoplot){
     rowstoplot = rowstoplot[1]
   }
   plot(as.numeric(RESIDUALS[rowstokeep[rowstoplot],]),info2$Age,xlab="Residuals",ylab="Age",main=gene,cex.main=0.9)
+  abline(lm(info2$Age ~ as.numeric(RESIDUALS[rowstokeep[rowstoplot],])))
+
   
 }
