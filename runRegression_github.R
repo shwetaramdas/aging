@@ -23,10 +23,15 @@ info2 = info[order(info$Cel.Filename),]
 pca = prcomp(t(quantile_norm_expn))
 
 #limma with top 10 PCs and sex,RIN,plate, Race and tissue type as covariates
+RESIDUALS = matrix(0,nrow=nrow(expn2),ncol=ncol(expn2))
 design2 = model.matrix(~1+ info2$Age + info2$RIN + as.factor(info2$array.plate) + as.factor(info2$Race) + as.factor(info2$Sex) + as.factor(info2$type)+ pca$x[,1]+pca$x[,2]+pca$x[,3]+pca$x[,4]+pca$x[,5]+pca$x[,6]+pca$x[,7]+pca$x[,8]+pca$x[,9]+pca$x[,10])
 limma_10pcs_pval = c()
 limma_10pcs_coef = c()
 for(i in 1:nrow(expn2)){
+  residuals = summary(lm(as.numeric(expn2[i,]) ~  pca$x[,1] + pca$x[,2] + pca$x[,3] + pca$x[,4] + pca$x[,5] + pca$x[,6] + pca$x[,7] + pca$x[,8] + pca$x[,9] + pca$x[,10]+ as.factor(info2$Sex) + info2$RIN + as.factor(info2$array.plate) + as.factor(info2$type)) + as.factor(info2$Race))$residuals
+  print(length(residuals))
+  RESIDUALS[i,] = residuals
+  
   fit = lmFit(t(expn2[i,]), design2)
   model = eBayes(fit)
   limma_10pcs_pval = c(limma_10pcs_pval, model$p.value[1,2])
