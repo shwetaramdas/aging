@@ -1,0 +1,94 @@
+DonorID	Age 	Race	Sex	type	cause of death	Tissue	Ocular	Diabetes	Optisol (hrs)	Vent (days)	death date	 Procurement	time of death 	death to cooling (hrs)	death to extraction (hrs)	death to dissect (hrs)	RIN	28/18s	RNA Date 	ng/ul 	A260 	A280 	260/280 	260/230 	impression	comment	array plate	Cel Filename	Decade	breakdown
+E626	13	C	M	remnant	multiple trauma	TM	Normal	no	139.2	0	8/3/2015	8/4/2015	16:10	2.83	21.83	161	7.5	0.3	9/28/2015	10.7	0.267	0.191	1.4	0.66	ok		Plate 1	Richards_01_018_E626-TM	I	
+E511	13	C	F	remnant	acute bronchial asthma	TM	Normal	no	106.2	0	12/8/2012	12/9/2012	12:50	2.83	11.83	118	6.3	0.2	9/25/2015	13.0	0.325	0.198	1.64	1.04	ok		Plate 2	Richards_02_012_E511-TM	I	"n=8 (5M, 3F)"
+E509	17	C	M	Full Cornea	anoxia (hanging)	TM	Normal	no	30.0	4	11/13/2012	11/13/2012	19:10	2	6.98	37	6.5	0.3	9/25/2015	14.7	0.367	0.206	1.79	0.1	ok		Plate 1	Richards_01_013_E509-TM	I	5 C-M
+E459	18	C	F	remnant	basilar skull fracture	TM	Normal	no	137.9	0	2/23/2012	2/23/2012	2:03	5	13.12	151	7.9	0.3	9/21/2015	7.8	0.196	0.141	1.38	0.68	ok		Plate 1	Richards_01_010_E459-TM	I	3 C-F
+E365	18	C	M	remnant	Anoxic Brain Injury	TM	Normal	no	78.6	4	4/16/2010	4/16/2010	22:54	0.6	6.43	85	7.0	0.3	9/22/2015	11.1	0.277	0.163	1.7	0.08	ok		Plate 2	Richards_02_001_E365-TM	I	
+E404	18	C	M	remnant	acute kidney injury/MVA	TM	Normal	no	67.6	5	11/15/2010	11/15/2010	11:48	2	10.37	78	5.3	0.4	9/21/2015	11.0	0.275	0.161	1.71	0.51	usable (degraded)		Plate 2	Richards_02_007_E404-TM	I	
+E378	19	C	F	Full Cornea	multiple blunt force trauma	TM	Normal	no	47.3	0	5/8/2010	5/9/2010	18:11	7.88	20.68	68	6.8	0.3	9/22/2015	15.9	0.399	0.222	1.8	1.51	ok		Plate 3	Richards_03_006_E378-TM	I	
+E640	19	C	M	remnant	multiple trauma	TM	Normal	no	143.7	0	8/20/2015	8/20/2015	23:40	4.08	16.30	160	7.0	0.8	9/29/2015	50.1	1.252	0.793	1.58	0.61	ok		Plate 3	Richards_03_024_E640-TM	I	
+E354	20	AA	M	remnant	gunshot/trauma	TM	Normal	no	72.8	2	3/27/2010	3/27/2010	4:39	5.35	8.22	81	8.1	0.3	9/22/2015	12.6	0.314	0.198	1.58	0.24	ok		Plate 3	Richards_03_001_E354-TM	II	
+E394	23	C	M	remnant	Self inflicted gunshot wound	TM	Normal	no	150.1	2	9/17/2010	9/17/2010	5:25	0	4.93	155	7.7	0.4	9/21/2015	33.9	0.847	0.518	1.64	0.17	ok		Plate 1	Richards_01_007_E394-TM	II	"n=9 (4M, 5F)"
+E555	24	C	F	remnant	multiple trauma (MVA)	TM	Normal	no	141.7	0	8/6/2013	8/6/2013	18:42	6.21	17.30	159	7.1	0.4	9/28/2015	26.7	0.668	0.361	1.85	0.7	ok		Plate 1	Richards_01_014_E555-TM	II	2 C-M
+E398	24	C	F	remnant	asthmatic attack	TM	Normal	no	91.2	0	10/1/2010	10/1/2010	2:00	7.3	14.83	106	7.0	0.3	9/21/2015	8.8	0.221	0.151	1.46	0.95	ok		Plate 2	Richards_02_006_E398-TM	II	4 C-F
+E538	24	C	F	remnant	cardiac dysrhythmia	TM	Normal	no	86.3	0	3/17/2013	3/13/2013	16:40	3	7.67	94	7.0	0.4	9/28/2015	10.8	0.271	0.166	1.63	0.46	ok		Plate 2	Richards_02_013_E538-TM	II	1 AA-M
+E529	24	AA	F	Full Cornea	cerebrovascular accident	TM	Normal	no	35.9	0	3/4/2013	3/4/2013	12:30	0	10.10	46	7.0	0.4	9/25/2015	19.7	0.492	0.287	1.71	1.37	ok		Plate 3	Richards_03_020_E529-TM	II	1 AA-F
+E343	25	C	F	remnant	Cardiac arrhythmia	TM	Normal	no	25.0	0	2/10/2010	2/10/2010	9:40	8	10.00	35	7.6	0.3	9/22/2015	14.2	0.354	0.211	1.68	0.63	ok		Plate 1	Richards_01_001_E343-TM	II	1 Asian-M
+E479	28	C	M	remnant	intercranial hemorrhage	TM	Normal	no	130.2	2	6/13/2012	6/13/2012	18:17	0	5.77	136	7.1	0.3	9/25/2015	6.2	0.155	0.101	1.54	0.16	usable (weak)		Plate 2	Richards_02_011_E479-TM	II	
+E372	28	Asian	M	remnant	gunshot wound to head	TM	Normal	no	103.8	0	4/22/2010	4/22/2010	18:00	0.25	3.20	107	7.1	0.3	9/21/2015	16.9	0.421	0.236	1.79	0.89	ok		Plate 3	Richards_03_004_E372-TM	II	
+E346	30	C	M	remnant	subdural hemotoma	TM	Normal	no	76.3	4	2/15/2010	2/15/2010	7:23	0	2.67	79	7.9	0.2	9/22/2015	5.9	0.148	0.088	1.67	0.62	ok		Plate 1	Richards_01_002_E346-TM	III	
+E496	30	AA	M	remnant	multiple trauma	TM	Normal	no	122.5	0	8/25/2012	8/25/2012	2:53	6.7	11.52	134	6.6	0.2	9/25/2015	4.7	0.117	0.097	1.21	0.97	usable (weak)		Plate 4	Richards_04_008_E496-TM	III	"n=13 (11M, 2F)"
+E392	31	C	M	remnant	traumatic brain injury	TM	Normal	no	145.1	3	9/8/2010	9/9/2010	13:09	0	2.93	148	7.1	0.2	9/22/2015	6.9	0.173	0.103	1.69	0.28	ok		Plate 2	Richards_02_005_E392-TM	III	7 C-M
+E546	32	C	M	remnant	Self inflicted gunshot wound	TM	Normal	no	57.7	0	4/7/2013	4/3/2013	17:08	2	10.32	68	7.1	0.4	9/28/2015	13.9	0.347	0.193	1.79	0.34	ok		Plate 2	Richards_02_015_E546-TM	III	2 C-F
+E443	32	Indian	M	remnant	arrhythmia	TM	Normal	no	148.3	0	11/4/2011	11/4/2011	3:25	2.41	6.75	155	8.0	0.4	9/21/2015	16.3	0.407	0.274	1.49	0.73	good		Plate 4	Richards_04_006_E443-TM	III	3-AA-M
+E385	33	C	F	remnant	Subarachnoid hemorrhage	TM	Normal	no	60.9	4	5/25/2010	5/25/2010	0:13	1.78	4.12	65	6.7	0.4	9/22/2015	9.1	0.227	0.141	1.61	0.23	ok		Plate 1	Richards_01_005_E385-TM	III	1 Indian F
+E618	33	C	M	Full Cornea	influenza	TM	Normal	no	144.5	0	7/28/2015	7/28/2015	14:49	3.93	16.47	161	6.2	n.a	9/28/2015	73.8	1.846	0.919	2.01	0.56	usable (degraded)		Plate 2	Richards_02_019_E618-TM	III	
+E363	33	AA	M	remnant	dilated cardiomyopathy	TM	Normal	no	26.4	0	4/12/2010	4/12/2010	3:31	0	5.58	32	7.0	0.3	9/22/2015	21.5	0.537	0.306	1.76	0.45	ok		Plate 4	Richards_04_002_E363-TM	III	
+E362	34	C	M	remnant	hypoxic brain injury	TM	Normal	no	112.3	5	4/8/2010	4/8/2010	21:57	1	1.70	114	7.5	0.3	9/21/2015	6.3	0.156	0.087	1.80	0.88	ok		Plate 3	Richards_03_002_E362-TM	III	
+E619	34	C	F	Full Cornea	gunshot	TM	Normal	no	144.5	0	7/28/2015	7/28/2015	14:49	3.93	16.47	161	6.4	n.a.	9/28/2015	24.2	0.604	0.345	1.75	0.35	ok	Donor was 6 months pregnant!	Plate 3	Richards_03_021_E619-TM	III	
+E481	38	AA	M	remnant	multiple injuries	TM	Normal	no	82.7	15	7/8/2012	7/9/2012	9:48	2.2	19.35	102	7.3	0.3	9/25/2015	7.1	0.177	0.13	1.36	1.12	ok		Plate 5	Richards_05_006_E481-TM	III	
+E628	39	C	M	remnant	atherosclerotic cardiac disease	TM	Normal	no	186.9	0	8/2/2015	8/3/2015	23:32	4.46	15.13	202	8.0	0.3	9/28/2015	7.8	0.196	0.149	1.31	0.84	ok		Plate 1	Richards_01_020_E628-TM	III	
+E388	39	C	M	remnant	Cardiac arrhythmia	TM	Normal	no	129.4	0	7/3/2010	7/3/2010	0:16	2.68	8.57	138	7.6	0.3	9/22/2015	6.4	0.16	0.093	1.72	1.17	ok		Plate 3	Richards_03_008_E388-TM	III	
+E653	40	AA	M	remnant	possible drug OD	TM	Normal	no	117.6	0	9/17/2015	9/18/2015	13:08	3.86	23.37	141	7.9	0.5	9/23/2015	24.5	0.613	0.387	1.58	0.86	ok		Plate 5	Richards_05_012_E653-TM	IV	
+E401	41	C	F	remnant	intercranial hemorrhage	TM	Normal	no	58.9	2	10/4/2010	10/5/2010	23:51	0	2.15	61	7.0	0.2	9/21/2015	9.7	0.241	0.141	1.71	0.98	ok		Plate 1	Richards_01_008_E401-TM	IV	
+E446	41	C	M	remnant	gunshot to chest	TM	Normal	no	111.8	0	11/17/2011	11/17/2011	11:00	5.25	11.20	123	6.8	0.4	9/23/2015	6.2	0.155	0.105	1.48	0.27	ok		Plate 2	Richards_02_008_E446-TM	IV	"n =14 (10M, 4F)"
+E480	42	C	F	remnant	COPD	TM	Normal	no	111.7	4	7/7/2012	7/8/2012	16:50	1.16	8.32	120	7.6	0.2	9/25/2015	8.5	0.212	0.141	1.51	0.3	ok		Plate 1	Richards_01_011_E480-TM	IV	8 C-M
+E350	43	C	F	remnant	Myocardial infarction / EtOH	TM	Normal	no	31.9	0.5	3/22/2010	3/24/2010	20:23	0.21	6.12	38	6.7	0.2	9/22/2015	21.0	0.524	0.283	1.85	1.54	ok		Plate 1	Richards_01_003_E350-TM	IV	3 C-F
+E391	43	C	M	remnant	Lt ulnar Artery Transection	TM	Normal	no	61.4	0	8/30/2010	8/30/2010	8:58	2.28	12.62	74	5.3	0.4	9/22/2015	5.4	0.136	0.081	1.67	0.63	usable (degraded)		Plate 2	Richards_02_004_E391-TM	IV	2 AA-M
+E361	43	AA	M	remnant	blunt force trauma	TM	Normal	no	112.3	1	4/9/2010	4/9/2010	6:25	3.91	17.75	130	7.3	0.3	9/22/2015	11.2	0.281	0.151	1.86	0.51	ok		Plate 5	Richards_05_001_E361-TM	IV	1 AA-F
+E463	44	C	M	remnant	probable hyp heart disease	TM	Normal	no	136.1	0	3/14/2012	3/15/2012	22:11	2.5	18.95	155	6.9	0.5	9/23/2015	10.0	0.25	0.154	1.62	0.2	ok		Plate 2	Richards_02_010_E463-TM	IV	
+E455	47	C	M	remnant	Probably cardiac arrhythmia	TM	Normal	no	84.6	0	2/5/2012	2/9/2012	14:58	4	11.37	96	7.6	0.4	9/21/2015	13.1	0.328	0.219	1.50	0.65	ok		Plate 2	Richards_02_009_E455-TM	IV	
+E400	47	C	M	remnant	probable myocardial infarction	TM	Normal	no	91.5	0	10/3/2010	10/3/2010	6:23	3.2	10.53	102	7.6	0.4	9/21/2015	15.7	0.393	0.242	1.62	0.2	ok		Plate 3	Richards_03_011_E400-TM	IV	
+E414	47	C	M	remnant	myocardial infarction	TM	Normal	no	143.8	0	2/11/2011	2/11/2011	7:36	1.8	7.23	151	8.0	0.6	9/23/2015	9.3	0.233	0.108	2.15	1.05	good		Plate 3	Richards_03_014_E414-TM	IV	
+E375	49	C	M	remnant	Enlarged heart/EtOH overdose	TM	Normal	no	128.1	0	4/23/2010	4/23/2010	2:48	2	6.87	135	7.0	0.6	9/22/2015	11.3	0.282	0.159	1.77	0.11	ok		Plate 3	Richards_03_005_E375-TM	IV	
+E469	49	C	M	remnant	Self inflicted gunshot wound	TM	Normal	no	96.2	0	4/26/2012	4/26/2012	9:55	1.08	11.83	108	6.8	0.2	9/23/2015	4.9	0.122	0.076	1.62	0.84	ok		Plate 4	Richards_04_007_E469-TM	IV	
+E535	49	AA	F	remnant	neurosarcoidosis	TM	Normal	no	142.8	6	3/13/2013	3/13/2013	3:47	5.46	7.22	150	7.2	0.4	9/25/2015	26.5	0.663	0.417	1.59	0.18	ok		Plate 5	Richards_05_010_E535-TM	IV	
+E620	50	C	M	Full Cornea	Trauma (stab)	TM	Normal	no	60.3	0	7/31/2015	7/28/2015	19:35	2.58	7.67	68	7.0	n.a.	9/28/2015	38.7	0.968	0.5	1.93	1.16	ok		Plate 1	Richards_01_015_E620-TM	V	
+E503	51	C	M	remnant	multiple injuries	TM	Normal	no	82.2	0	9/30/2012	10/1/2012	14:55	0	11.78	94	6.9	0.4	9/25/2015	6.5	0.163	0.109	1.5	0.28	ok		Plate 1	Richards_01_012_E503-TM	V	
+E616	52	C	M	Full Cornea	probable myocardial infarction	TM	Normal	no	97.5	0	7/25/2015	7/26/2015	18:09	3.5	14.55	112	6.1	n.a	9/28/2015	26.7	0.667	0.355	1.88	0.19	usable (degraded)		Plate 2	Richards_02_018_E616-TM	V	"n=11 (9M, 2F)"
+E525	53	AA	M	remnant	myocardial infarction	TM	Normal	no	127.9	0	2/15/2013	2/15/2013	12:01	3.06	14.07	142	7.7	0.3	9/21/2015	9.4	0.236	0.144	1.63	0.82	good		Plate 5	Richards_05_009_E525-TM	V	7 C-M
+E648	54	C	M	remnant	intercranial hemorrhage	TM	Normal	no	78.9	0	8/28/2015	8/29/2015	20:46	0	6.08	85	6.3	0.8	9/29/2015	89.1	2.226	1.418	1.57	0.47	ok		Plate 2	Richards_02_024_E648-TM	V	2 C-F
+E384	55	C	M	remnant	Drowning	TM	Normal	no	116.2	0	5/22/2010	5/22/2010	6:05	2.91	14.83	131	7.0	0.3	9/22/2015	9.5	0.236	0.138	1.71	0.14	ok		Plate 2	Richards_02_003_E384-TM	V	2 AA-M
+E652	57	C	F	remnant	leiomyosarcoma	TM	Normal	no	96.6	0	9/19/2015	9/19/2015	3:09	2	6.43	103	6.6	0.4	9/23/2015	10.1	0.252	0.137	1.84	0.48	ok		Plate 1	Richards_01_024_E652-TM	V	
+E520	57	C	F	remnant	lung cancer (no chx/rad)	TM	Normal	no	185.8	0	1/29/2013	1/29/2013	1:03	1.7	14.20	200	6.6	0.1	9/25/2015	6.7	0.167	0.118	1.42	0.58	usable (weak)		Plate 3	Richards_03_017_E520-TM	V	
+E625	57	C	M	remnant	myocardial infarction	TM	Normal	no	85.3	0	8/3/2015	8/3/2015	11:43	2	11.68	97	7.2	0.4	9/28/2015	7.7	0.192	0.12	1.6	0.57	ok		Plate 3	Richards_03_022_E625-TM	V	
+E396	59	C	M	remnant	probable COPD	TM	Normal	no	61.0	0	9/26/2010	9/26/2010	10:49	5.5	11.02	72	7.7	0.4	9/22/2015	9.4	0.236	0.134	1.76	0.74	ok		Plate 3	Richards_03_009_E396-TM	V	
+E412	59	AA	M	remnant	intracranial hemorhage	TM	Normal	no	137.3	10	1/13/2011	1/14/2011	20:49	0.68	3.68	141	7.4	0.5	9/23/2015	7.7	0.194	0.103	1.88	0.1	ok		Plate 5	Richards_05_003_E412-TM	V	
+E390	60	C	F	remnant	cerebrovascular accident	TM	Normal	no	105.0	8	8/25/2010	8/26/2010	17:30	3	8.00	113	7.8	0.3	9/21/2015	17.2	0.429	0.281	1.53	0.59	ok		Plate 1	Richards_01_006_E390-TM	VI	
+E521	60	C	M	remnant	arteriosclerotic cardio disease	TM	Normal	no	110.0	0	2/8/2013	2/8/2013	10:22	3.63	13.05	123	6.0	0.4	9/25/2015	4.0	0.099	0.075	1.31	0.57	usable (weak)		Plate 3	Richards_03_018_E521-TM	VI	"n=15 (10M, 5F)"
+E627	63	C	M	remnant	sudden cardiac death	TM	Normal	no	141.2	0	8/4/2015	8/5/2015	13:59	22.18	22.80	164	8.2	0.5	9/28/2015	8.4	0.21	0.116	1.82	0.12	good		Plate 1	Richards_01_019_E627-TM	VI	9 C-M
+E399	63	C	M	remnant	probable myocardial infarction	TM	Normal	no	137.5	0	9/30/2010	9/30/2010	7:03	2.7	8.53	146	7.6	0.4	9/23/2015	9.4	0.234	0.116	2.01	0.08	ok		Plate 3	Richards_03_010_E399-TM	VI	5 C-F
+E466	63	C	M	remnant	acute myocardial infarction	TM	Normal	no	87.0	0	4/6/2012	4/6/2012	3:15	2.18	15.05	102	6.6	0.6	9/23/2015	6.1	0.153	0.102	1.5	0.27	usable (degraded)		Plate 3	Richards_03_015_E466-TM	VI	1 AA-M
+E440	64	C	F	remnant	Pulmonary hemorrhage	TM	Normal	no	92.2	0	10/27/2011	10/27/2011	4:30	3.5	7.83	100	6.7	0.5	9/21/2015	7.2	0.179	0.112	1.61	0.94	usable (degraded)		Plate 1	Richards_01_009_E440-TM	VI	
+E415	64	C	M	remnant	myocardial infarction	TM	Normal	no	94.3	0	2/13/2011	2/13/2011	2:25	4	13.72	108	6.5	0.4	9/23/2015	8.2	0.205	0.129	1.58	0.17	usable (degraded)		Plate 5	Richards_05_004_E415-TM	VI	
+E345	65	C	M	remnant	myocardial infarction	TM	Normal	no	37.0	0	2/15/2010	2/15/2010	14:32	2	8.00	45	7.5	0.3	9/22/2015	8.9	0.222	0.135	1.64	0.58	ok		Plate 4	Richards_04_001_E345-TM	VI	
+E544	66	C	F	remnant	COPD	TM	Normal	no	138.4	0	4/3/2013	4/3/2013	5:56	4	13.65	152	7.3	0.4	9/28/2015	8.7	0.216	0.127	1.7	0.91	ok		Plate 2	Richards_02_014_E544-TM	VI	
+E407	66	C	M	remnant	coronary atherosclerosis	TM	Normal	no	117.2	0	12/8/2010	12/8/2010	3:20	1.66	12.80	130	5.7	0.3	9/23/2015	20.6	0.515	0.308	1.67	0.08	usable (degraded)		Plate 4	Richards_04_004_E407-TM	VI	
+E504	66	AA	M	remnant	myocardial infarction	TM	Normal	no	116.2	0	10/2/2012	10/3/2012	19:23	0.81	20.78	137	7.9	0.2	9/25/2015	8.4	0.209	0.129	1.62	0.34	ok		Plate 5	Richards_05_007_E504-TM	VI	
+E517	67	C	M	remnant	arteriosclerotic cardio disease	TM	Normal	no	168.9	0	1/23/2013	1/24/2013	15:26	9.15	16.15	185	8.2	0.3	9/25/2015	8.1	0.203	0.125	1.62	0.81	good		Plate 5	Richards_05_008_E517-TM	VI	
+E371	68	C	F	remnant	COPD	TM	Normal	no	61.4	0	4/24/2010	4/24/2010	10:54	1.83	11.57	73	6.6	0.2	9/22/2015	37.7	0.943	0.487	1.94	1.29	ok		Plate 2	Richards_02_002_E371-TM	VI	
+E630	68	C	M	remnant	intercranial hemorrhage	TM	Normal	no	132.6	3	8/7/2015	8/5/2015	17:30	0	3.42	136	6.5	0.4	9/28/2015	20.6	0.515	0.32	1.61	0.11	ok		Plate 2	Richards_02_020_E630-TM	VI	
+E397	69	C	M	remnant	myocardial infarction	TM	Normal	no	120.3	0	9/28/2010	9/29/2010	23:45	2.75	11.67	132	7.9	0.3	9/22/2015	6.5	0.163	0.103	1.58	0.1	ok		Plate 5	Richards_05_002_E397-TM	VI	
+E383	70	C	F	remnant	small cell carcinoma	TM	Normal	no	100.3	0	5/20/2010	5/20/2010	2:15	3.25	6.73	107	7.2	0.3	9/22/2015	10.1	0.253	0.165	1.54	0.13	ok		Plate 1	Richards_01_004_E383-TM	VII	
+E624	71	C	F	remnant	pulmonary embolus	TM	Normal	no	164.9	0	7/29/2015	7/30/2015	18:15	2.83	20.08	185	6.4	0.5	9/28/2015	9.4	0.234	0.155	1.51	0.19	usable (degraded)		Plate 1	Richards_01_017_E624-TM	VII	"n=13 (6M, 7F)"
+E402	71	C	M	remnant	myocardial infarction	TM	Normal	no	83.7	0	10/8/2010	10/9/2010	16:06	1.9	8.32	92	5.4	0.4	9/21/2015	13.3	0.333	0.216	1.54	0.47	doubtful (degraded)		Plate 3	Richards_03_012_E402-TM	VII	6 C-M
+E635	71	C	M	remnant	coronary artery disease	TM	Normal	no	107.1	0	8/20/2015	8/20/2015	13:02	3.13	9.92	117	6.8	0.6	9/29/2015	10.8	0.27	0.159	1.7	0.32	ok		Plate 4	Richards_04_010_E635-TM	VII	7 C-F
+E441	71	C	M	remnant	myocardial infarction	TM	Normal	no	101.4	0	11/3/2011	11/3/2011	6:52	2.21	20.58	122	6.6	0.4	9/23/2015	6.1	0.153	0.085	1.79	0.06	usable (weak)		Plate 5	Richards_05_005_E441-TM	VII	
+E556	72	C	F	remnant	chronic cardiopulmonary failure	TM	Normal	no	223.2	0	8/5/2013	8/5/2013	0:06	2	5.82	229	6.6	0.4	9/28/2015	12.6	0.315	0.182	1.73	0.23	ok		Plate 2	Richards_02_016_E556-TM	VII	
+E370	72	C	M	remnant	Subarachnoid hemorrhage	TM	Normal	no	55.6	0	4/24/2010	4/25/2010	18:26	4	8.40	64	6.4	0.4	9/22/2015	19.2	0.481	0.262	1.83	0.33	ok		Plate 3	Richards_03_003_E370-TM	VII	
+E403	73	C	M	remnant	Abdominal aortic aneurysm	TM	Normal	no	111.0	0	11/6/2010	11/7/2010	8:35	2.58	15.97	127	7.5	0.5	9/23/2015	9.9	0.247	0.141	1.75	0.92	ok		Plate 3	Richards_03_013_E403-TM	VII	
+E629	74	C	F	remnant	coronary artery disease	TM	Normal	no	150.1	0	8/4/2015	8/5/2015	19:32	4.13	15.88	166	7.5	0.6	9/28/2015	9.5	0.237	0.158	1.5	0.65	good		Plate 1	Richards_01_021_E629-TM	VII	
+E615	74	C	F	Full Cornea	metastatic breast cancer	TM	Normal	no	127.4	2	7/24/2015	7/25/2015	12:17	2	12.58	140	6.8	0.4	9/28/2015	50.0	1.249	0.633	1.97	0.79	ok		Plate 2	Richards_02_017_E615-TM	VII	
+E645	76	C	F	Full Cornea	COPD	TM	Normal	no	51.1	0	8/27/2015	8/28/2015	23:50	3.16	9.95	61	5.9	0.5	9/29/2015	20.1	0.503	0.29	1.74	0.78	usable (degraded)		Plate 5	Richards_05_014_E645-TM	VII	
+E644	79	C	F	Full Cornea	emphysema	TM	Normal	no	7.7	0	8/26/2015	8/27/2015	13:20	2.67	19.33	27	2.3	0.8	9/29/2015	29.6	0.739	0.39	1.89	0.22	usable (degraded)		Plate 2	Richards_02_023_E644-TM	VII	
+E639	79	C	M	Full Cornea	myocardial infarction	TM	Normal	no	23.1	0	8/25/2015	8/26/2015	18:35	2	14.92	38	5.7	0.4	9/29/2015	67.4	1.686	0.914	1.84	0.58	usable (degraded)		Plate 5	Richards_05_011_E639-TM	VII	
+E647	80	C	F	Full Cornea	acute renal failure	TM	Normal	no	43.9	0	8/28/2015	8/28/2015	5:53	4.1	11.08	55	7.3	0.3	9/29/2015	31.9	0.797	0.404	1.98	0.14	ok		Plate 5	Richards_05_016_E647-TM	VIII	
+E621	82	C	M	Full Cornea	congestive heart failure	TM	Normal	no	21.4	0	8/2/2015	8/2/2015	11:10	1.83	6.57	28	6.9	n.a.	9/28/2015	33.1	0.828	0.434	1.91	0.79	usable (degraded)		Plate 1	Richards_01_016_E621-TM	VIII	"n=10 (6M, 5F)"
+E632	82	C	F	Full Cornea	cerebrovascular accident	TM	Normal	no	10.9	0	8/17/2015	8/18/2015	19:20	0	6.12	17	6.7	0.6	9/29/2015	47.4	1.184	0.6	1.97	1.11	usable (degraded)		Plate 1	Richards_01_022_E632-TM	VIII	5 C-M
+E636	82	C	M	Full Cornea	myocardial infarction	TM	Normal	no	19.2	0	8/24/2015	8/24/2015	12:38	2.36	5.77	25	5.2	0.4	9/29/2015	90.4	2.261	1.155	1.96	0.86	usable (degraded)		Plate 1	Richards_01_023_E636-TM	VIII	4 C-F
+E650	85	C	M	Full Cornea	congestive heart failure	TM	Normal	no	6.6	0	8/30/2015	9/1/2015	21:30	2	7.43	14	4.5	0.3	9/29/2015	38.0	0.951	0.516	1.84	0.11	usable (degraded)		Plate 5	Richards_05_018_E650-TM	VIII	1 AA-M
+E642	86	C	M	Full Cornea	cerebrovascular accident	TM	Normal	no	14.0	0	8/16/2015	8/27/2015	20:38	2	7.03	21	3.0	0.3	9/29/2015	45.1	1.127	0.646	1.74	0.46	doubtful (degraded)		Plate 5	Richards_05_013_E642-TM	VIII	
+E646	86	C	F	Full Cornea	myocardial infarction	TM	Normal	no	36.6	0	8/28/2015	8/28/2015	19:52	2	4.38	41	6.0	0.5	9/29/2015	54.0	1.351	0.759	1.78	0.27	ok		Plate 5	Richards_05_015_E646-TM	VIII	
+E649	86	AA	M	Full Cornea	colorectal cancer	TM	Normal	no	25.2	0	8/30/2015	8/31/2015	21:30	2	16.78	42	3.9	0.4	9/29/2015	154.7	3.868	2.484	1.56	0.6	usable (degraded)		Plate 5	Richards_05_017_E649-TM	VIII	
+E637	88	C	M	Full Cornea	myocardial infarction	TM	Normal	no	16.4	0	8/24/2015	8/24/2015	9:17	2	13.57	30	4.4	0.6	9/29/2015	98.1	2.452	1.22	2.01	2.06	usable (degraded)		Plate 2	Richards_02_021_E637-TM	VIII	
+E643	88	C	F	Full Cornea	myocardial infarction	TM	Normal	no	12.1	0	8/26/2015	8/27/2015	20:26	2	7.88	20	3.4	1.0	9/29/2015	39.1	0.978	0.486	2.01	0.82	doubtful (degraded)		Plate 2	Richards_02_022_E643-TM	VIII	
