@@ -3,11 +3,11 @@
 library(limma)
 library("preprocessCore")
 
-FOLDER = "C:/Users/sramdas/Dropbox/"
+#FOLDER = "C:/Users/sramdas/Dropbox/"
 
 #read in input data
-expn = read.csv("C:/Users/sramdas/Dropbox/TM_Li//original_data/TMtissueAge RMA JunLi.txt",skip=1,header=T,stringsAsFactors = F,sep="\t")
-info = read.table(paste(FOLDER,"TM_Li/redo_analysis/aug2016/NEWANALYSIS_Nov22_2016/TM datasheetinfo_tissue_revised.txt",sep=""),header=T,sep="\t",stringsAsFactors = F)
+expn = read.csv("data/TMtissueAge RMA JunLi.txt",skip=1,header=T,stringsAsFactors = F,sep="\t")
+info = read.table(paste("data/","TM datasheetinfo_tissue_revised.txt",sep=""),header=T,sep="\t",stringsAsFactors = F)
 
 #normalize expression data
 info2 = info[order(info$Cel.Filename),]
