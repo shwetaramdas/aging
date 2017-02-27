@@ -2,6 +2,6 @@
 
 ### Data
 
-All the data used in the analyses in this repository are in the data folder, or can be downloaded from Dropbox links found in the data folder.
+All the data used in the analyses in this repository are in the data folder, or can be downloaded from Dropbox links found in the data folder. We will soon make the data available on NCBI GEO as well.
 
 
