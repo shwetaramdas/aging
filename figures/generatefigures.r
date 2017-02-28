@@ -50,7 +50,7 @@ for(gene in genestoplot){
     rowstoplot = rowstoplot[1]
   }
    datamat = as.data.frame(cbind(RESIDUALS[rowstokeep[rowstoplot],], info2$Age))
-   p[[i]] <- ggplot(datamat, aes(x=V1,y=V2)) + geom_point() +geom_smooth(method=lm,se=FALSE) + scale_x_continuous(name="Residuals") + scale_y_continuous(name="Age(yrs)") + ggtitle(gene) + theme(plot.title=element_text(size=9),axis.title=element_text(size=8))
+   p[[i]] <- ggplot(datamat, aes(x=V1,y=V2)) + geom_point() +geom_smooth(method=lm,se=FALSE) + scale_x_continuous(name="Residuals") + scale_y_continuous(name="Age(yrs)") + ggtitle(gene) +theme_bw()+ theme(plot.title=element_text(size=9),axis.title=element_text(size=8),panel.grid.major = element_blank(), panel.grid.minor = element_blank()) 
    i = i +1
 }
 grid.arrange(p[[1]],p[[2]],p[[3]],p[[4]],p[[5]],p[[6]],p[[7]],p[[8]],p[[9]],ncol=3)
