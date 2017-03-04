@@ -1,7 +1,7 @@
-FOLDER = "C:/Users/sramdas/Dropbox/"
+#this should be run after running the regression code
 
-expn = read.csv(paste(FOLDER, "TM_Li//original_data/TMtissueAge RMA JunLi.txt",sep=""),skip=1,header=T,stringsAsFactors = F,sep="\t")
-info = read.table(paste(FOLDER,"TM_Li/redo_analysis/aug2016/NEWANALYSIS_Nov22_2016/TM datasheetinfo_tissue_revised.txt",sep=""),header=T,sep="\t",stringsAsFactors = F)
+expn = read.csv(paste("../data/", "TMtissueAge RMA JunLi.txt",sep=""),skip=1,header=T,stringsAsFactors = F,sep="\t")
+info = read.table(paste("../data/","TM datasheetinfo_tissue_revised.txt",sep=""),header=T,sep="\t",stringsAsFactors = F)
 
 info2 = info[order(info$Cel.Filename),]
 library(limma)
@@ -30,8 +30,7 @@ heatmap(toplot2, col=redblue100,labRow=sort(info2$Age), labCol=genestoplot,Rowv 
 #creating plot of expression residuals (i.e. expression corrected for covariates) by age
 
 
-op <- par(mfrow = c(3,3),mai=c(0.4,0.35,0.5,0.35))
-
+par(mfrow=c(3,3),mar=c(3.8,3.7,4,2))
 for(gene in genestoplot){
   rowstoplot = which(genes[rowstokeep]==gene)
   if(length(rowstoplot)> 1){
